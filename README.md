@@ -1,4 +1,3 @@
-=
 Paintball Trajectory Calculator
 =
 
